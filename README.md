@@ -64,6 +64,8 @@ I bridge the gap between design, engineering, and business goals, turning comple
 
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI%20API-0fa37f?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="DrizzleORM" src="https://img.shields.io/badge/-DrizzleORM-000000?style=flat-square&logo=drizzle&logoColor=c6f74e" />
+  <img alt="DrizzleORM" src="https://img.shields.io/badge/-PrismaORM-1c1f42?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=FFC400" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
