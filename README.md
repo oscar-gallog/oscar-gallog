@@ -3,10 +3,10 @@
 **Full Stack Engineer | AI Entrepreneur | Mentor**
 
 <p>
-  <a href="https://www.linkedin.com/in/oscargallo/">
+  <a href="https://www.linkedin.com/in/oscargallo/" target="_blank" rel="noopener noreferrer">
     <img src="./logos/linkedin.svg" width="20" />
   </a>
-  <a href="https://x.com/o_codes_life">
+  <a href="https://x.com/o_codes_life" target="_blank" rel="noopener noreferrer">
     <img alt="X" src="https://img.shields.io/badge/-o_codes_life-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
   <a href="mailto:oarmandogallo@gmail.com">
@@ -19,27 +19,28 @@
 <h2>🚀 I build AI + Web + Mobile solutions for businesses like:</h2>
 
 <p>
-  <a href="https://bodylura.com/">
-    <img src="./logos/bl.png" width="100" />
-  </a>
-  <a href="https://cars.com/">
-    <img src="./logos/cars.webp" width="100" />
-  </a>
-  <a href="https://www.cushmanwakefield.com/">
-    <img src="./logos/caw.jpg" width="100" />
-  </a>
-  <a href="https://www.irtliving.com/">
-    <img src="./logos/irt.png" width="100" />
-  </a>
-  <a href="https://www.shopmonkey.io/">
-    <img src="./logos/sm.jpg" width="100" />
-  </a>
-  <a href="https://vaynermedia.com/">
-    <img src="./logos/vm.png" width="100" />
-  </a>
-  <a href="https://www.walmart.com/">
+<a href="https://www.walmart.com/" target="_blank" rel="noopener noreferrer">
     <img src="./logos/w.png" width="100" />
   </a>
+  <a href="https://www.shopmonkey.io/" target="_blank" rel="noopener noreferrer">
+    <img src="./logos/sm.jpg" width="100" />
+  </a>
+  <a href="https://cars.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./logos/cars.webp" width="100" />
+  </a>
+  <a href="https://bodylura.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./logos/bl.png" width="100" />
+  </a>
+  <a href="https://www.cushmanwakefield.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./logos/caw.jpg" width="100" />
+  </a>
+  <a href="https://www.irtliving.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./logos/irt.png" width="100" />
+  </a>
+  <a href="https://vaynermedia.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./logos/vm.png" width="100" />
+  </a>
+  
   
 </p>
 
@@ -136,7 +137,10 @@ _Aug 2018 – Nov 2020_
 
 ### **Oscar Codes Life** – Creator
 
-[oscarcodeslife.com](https://oscarcodeslife.com)  
+<a href="https://oscarcodeslife.com" target="_blank">
+oscarcodeslife.com
+</a>
+
 _2024 – Present_
 
 - Personal knowledge hub where I share insights about **AI, web development, mobile development, books, and more**.
@@ -144,7 +148,8 @@ _2024 – Present_
 
 ### **CreativeFRG** – Founder
 
-[creativefrg.com](https://creativefrg.com)  
+<a href="https://creativefrg.com" target="_blank">creativefrg.com</a>
+
 2025 – Present
 
 - Personal knowledge hub where I share insights about **AI, web development, mobile development, books, and more**.
@@ -152,7 +157,8 @@ _2024 – Present_
 
 ### **FeedbackCraft** – Co-Founder
 
-[feedbackcraft.com](https://feedbackcraft.com)  
+<a href="https://feedbackcraft.com" target="_blank">feedbackcraft.com</a>
+
 2025 – Present
 
 - Personal knowledge hub where I share insights about **AI, web development, mobile development, books, and more**.
