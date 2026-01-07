@@ -146,14 +146,14 @@ _2024 – Present_
 - Personal knowledge hub where I share insights about **AI, web development, mobile development, books, and more**.
 - Aimed at helping developers and entrepreneurs navigate the fast-changing tech ecosystem.
 
-### **CreativeFRG** – Founder
+### **RenovAIte** – Founder
 
-<a href="https://creativefrg.com" target="_blank">creativefrg.com</a>
+<a href="https://renovaite.ai" target="_blank">renovaite.ai</a>
 
 2025 – Present
 
-- Personal knowledge hub where I share insights about **AI, web development, mobile development, books, and more**.
-- Aimed at helping developers and entrepreneurs navigate the fast-changing tech ecosystem.
+- AI native interior design & renovation platform.
+- Aimed at helping real estate developers, entrepreneurs and real estate agents navigate the fast-changing tech ecosystem.
 
 ### **FeedbackCraft** – Co-Founder
 
