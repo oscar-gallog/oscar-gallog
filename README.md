@@ -62,7 +62,7 @@ I bridge the gap between design, engineering, and business goals, turning comple
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI%20API-0fa37f?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="DrizzleORM" src="https://img.shields.io/badge/-DrizzleORM-000000?style=flat-square&logo=drizzle&logoColor=c6f74e" />
@@ -146,9 +146,9 @@ _2024 – Present_
 - Personal knowledge hub where I share insights about **AI, web development, mobile development, books, and more**.
 - Aimed at helping developers and entrepreneurs navigate the fast-changing tech ecosystem.
 
-### **RenovAIte** – Founder
+### **ByRenovate** – Co-founder
 
-<a href="https://renovaite.ai" target="_blank">renovaite.ai</a>
+<a href="https://byrenovate.com" target="_blank">byrenovate.com</a>
 
 2025 – Present
 
