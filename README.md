@@ -16,68 +16,41 @@
 
 ---
 
-<h2>🚀 I build AI + Web + Mobile solutions for businesses like:</h2>
+## What I'm Working On
 
-<p>
-<a href="https://www.walmart.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./logos/w.png" width="100" />
-  </a>
-  <a href="https://www.shopmonkey.io/" target="_blank" rel="noopener noreferrer">
-    <img src="./logos/sm.jpg" width="100" />
-  </a>
-  <a href="https://cars.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./logos/cars.webp" width="100" />
-  </a>
-  <a href="https://bodylura.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./logos/bl.png" width="100" />
-  </a>
-  <a href="https://www.cushmanwakefield.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./logos/caw.jpg" width="100" />
-  </a>
-  <a href="https://www.irtliving.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./logos/irt.png" width="100" />
-  </a>
-  <a href="https://vaynermedia.com/" target="_blank" rel="noopener noreferrer">
-    <img src="./logos/vm.png" width="100" />
-  </a>
-  
-  
-</p>
+### **ByPosting** – Co-Founder
 
----
+<a href="https://byposting.com" target="_blank">byposting.com</a>
 
-## About Me
+- AI-native community manager that automatically creates, designs, and publishes social media content across multiple platforms.
 
-I am a software engineer and founder with 10+ years of experience building mobile and mobile-first web applications. I specialize in **JavaScript, TypeScript, React, React Native, Next.js, Generative AI, AI Agents, and Node.js**, and modern web architectures.
+### **ByRenovate** – Co-Founder
 
-I bridge the gap between design, engineering, and business goals, turning complex requirements into working products. My work spans **healthcare, retail, automotive, and AI-driven platforms**.
+<a href="https://byrenovate.com" target="_blank">byrenovate.com</a>
+
+- AI-native interior design & renovation platform.
+- Aimed at helping real estate developers, entrepreneurs and real estate agents navigate the fast-changing tech ecosystem.
+
+### **Oscar Codes Life** – Creator
+
+<a href="https://oscarcodeslife.com" target="_blank">oscarcodeslife.com</a>
+
+- Personal knowledge hub where I share insights about **AI, web development, mobile development, books, and more**.
+- Aimed at helping developers and entrepreneurs navigate the fast-changing tech ecosystem.
+
+### **Iteris** – Creator
+
+<a href="https://github.com/Oscar-Codes-Life/Iteris" target="_blank">github.com/Oscar-Codes-Life/Iteris</a>
+
+- Autonomous software engineering agent that automatically implements GitHub issues and Trello cards by spawning Claude Code instances and opening pull requests.
+
+### **nextjs-geo-audit** – Creator
+
+<a href="https://github.com/Oscar-Codes-Life/nextjs-geo-audit" target="_blank">github.com/Oscar-Codes-Life/nextjs-geo-audit</a>
+
+- Claude Code skill that performs technical SEO and generative engine optimization audits on Next.js App Router codebases.
 
 ---
-
-## My tech Stack:
-
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Expo (React Native)" src="https://img.shields.io/badge/-Expo(React%20Native)-000000?style=flat-square&logo=expo&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
-  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI%20API-0fa37f?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="DrizzleORM" src="https://img.shields.io/badge/-DrizzleORM-000000?style=flat-square&logo=drizzle&logoColor=c6f74e" />
-  <img alt="DrizzleORM" src="https://img.shields.io/badge/-PrismaORM-1c1f42?style=flat-square&logo=prisma&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=FFC400" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
 
 ## Experience
 
@@ -133,40 +106,74 @@ _Aug 2018 – Nov 2020_
 
 ---
 
+<h2>🚀 I build AI + Web + Mobile solutions for businesses like:</h2>
+
+<p>
+<a href="https://www.walmart.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./logos/w.png" width="100" />
+  </a>
+  <a href="https://www.shopmonkey.io/" target="_blank" rel="noopener noreferrer">
+    <img src="./logos/sm.jpg" width="100" />
+  </a>
+  <a href="https://cars.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./logos/cars.webp" width="100" />
+  </a>
+  <a href="https://bodylura.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./logos/bl.png" width="100" />
+  </a>
+  <a href="https://www.cushmanwakefield.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./logos/caw.jpg" width="100" />
+  </a>
+  <a href="https://www.irtliving.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./logos/irt.png" width="100" />
+  </a>
+  <a href="https://vaynermedia.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./logos/vm.png" width="100" />
+  </a>
+
+
+</p>
+
+---
+
+## About Me
+
+I am a software engineer and founder with 10+ years of experience building mobile and mobile-first web applications. I specialize in **JavaScript, TypeScript, React, React Native, Next.js, Generative AI, AI Agents, and Node.js**, and modern web architectures.
+
+I bridge the gap between design, engineering, and business goals, turning complex requirements into working products. My work spans **healthcare, retail, automotive, and AI-driven platforms**.
+
+---
+
+## My tech Stack:
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Expo (React Native)" src="https://img.shields.io/badge/-Expo(React%20Native)-000000?style=flat-square&logo=expo&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
+  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI%20API-0fa37f?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="DrizzleORM" src="https://img.shields.io/badge/-DrizzleORM-000000?style=flat-square&logo=drizzle&logoColor=c6f74e" />
+  <img alt="DrizzleORM" src="https://img.shields.io/badge/-PrismaORM-1c1f42?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=FFC400" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
 ## Entrepreneurship & Side Projects
-
-### **Oscar Codes Life** – Creator
-
-<a href="https://oscarcodeslife.com" target="_blank">
-oscarcodeslife.com
-</a>
-
-_2024 – Present_
-
-- Personal knowledge hub where I share insights about **AI, web development, mobile development, books, and more**.
-- Aimed at helping developers and entrepreneurs navigate the fast-changing tech ecosystem.
-
-### **ByRenovate** – Co-founder
-
-<a href="https://byrenovate.com" target="_blank">byrenovate.com</a>
-
-2025 – Present
-
-- AI native interior design & renovation platform.
-- Aimed at helping real estate developers, entrepreneurs and real estate agents navigate the fast-changing tech ecosystem.
-
-### **FeedbackCraft** – Co-Founder
-
-<a href="https://feedbackcraft.com" target="_blank">feedbackcraft.com</a>
-
-2025 – Present
-
-- Personal knowledge hub where I share insights about **AI, web development, mobile development, books, and more**.
-- Aimed at helping developers and entrepreneurs navigate the fast-changing tech ecosystem.
 
 ### **DG42** – Co-Founder / CTO
 
-[dg42.io](https://dg42.io)  
+[bydg42.com](https://bydg42.com)
 _2023 – Present_
 
 - Building AI-first products in the fields of marketing, design, and product photography.
