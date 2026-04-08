@@ -52,6 +52,28 @@
 
 ---
 
+## Services
+
+### **Fractional CTO Call**
+
+<a href="https://cal.com/oscar-gallo/fractional-cto-call" target="_blank">Book a Fractional CTO Call</a>
+
+- Strategic technology leadership for startups and growing teams — architecture reviews, tech stack decisions, and engineering roadmaps.
+
+### **AI Systems Architect**
+
+<a href="https://cal.com/oscar-gallo/ai-systems-architect" target="_blank">Book an AI Systems Architect Session</a>
+
+- Design and plan AI-powered systems for your product — from LLM integrations and agent workflows to infrastructure and deployment strategy.
+
+### **Discovery 30 Min Meeting**
+
+<a href="https://cal.com/oscar-gallo/30min" target="_blank">Book a 30 Min Discovery Call</a>
+
+- Quick introductory call to discuss your project, explore how I can help, and determine the best path forward.
+
+---
+
 ## Experience
 
 ### **ShopMonkey.io** – Mobile React Native Engineer
