@@ -199,31 +199,36 @@ I bridge the gap between design, engineering, and business goals, turning comple
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI%20API-0fa37f?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="DrizzleORM" src="https://img.shields.io/badge/-DrizzleORM-000000?style=flat-square&logo=drizzle&logoColor=c6f74e" />
   <img alt="DrizzleORM" src="https://img.shields.io/badge/-PrismaORM-1c1f42?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=FFC400" />
+  <img alt="Convex" src="https://img.shields.io/badge/-Convex-EE342F?style=flat-square&logo=convex&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="AI SDK" src="https://img.shields.io/badge/-AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Anthropic API" src="https://img.shields.io/badge/-Anthropic%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
 ## Skills
 
-- **AI & ML:** AI infrastructure, OpenAI API, AI image generation, Large Language Models (LLMs)
-- **Backend & Databases:** Node.js, Next.js, DrizzleORM, Prisma, PostgreSQL, Convex, Firebase.
+- **AI & ML:** AI infrastructure, Anthropic API, OpenAI API, AI SDK, Claude Code, AI image generation, Large Language Models (LLMs), AI Agents
+- **Backend & Databases:** Node.js, Next.js, DrizzleORM, Prisma, PostgreSQL, Convex, Firebase
 - **Frontend & Mobile:** React, React Native (Expo), Next.js, Gatsby
 - **State Management:** Redux, Zustand, React Query
 - **Languages:** TypeScript, JavaScript
 - **UI & Styling:** Tailwind, CSS, LESS, SASS
+- **DevOps & Tools:** Vercel, GitHub, Google Cloud Platform
 - **Other:** Leadership, Architecture Design, Product Strategy, Mentorship
 
 ---
