@@ -1,6 +1,6 @@
 # Hello 👋🏻 I'm **Oscar Gallo**
 
-**Full Stack Engineer | AI Entrepreneur | Mentor**
+**Full Stack Engineer | AI Entrepreneur | Podcast Host | Mentor**
 
 <p>
   <a href="https://www.linkedin.com/in/oscargallo/" target="_blank" rel="noopener noreferrer">
@@ -17,6 +17,14 @@
 ---
 
 ## What I'm Working On
+
+### **Human In the Loop** – Co-Host
+
+<a href="https://www.youtube.com/@Human_in_the_loop_podcast" target="_blank">YouTube</a> · <a href="https://open.spotify.com/show/1NYCImjS1FzreHbLfIH4k5" target="_blank">Spotify</a>
+
+- Weekly human-first AI podcast co-hosted with Matt Wozniak. Real talk, unpopular opinions, no hype.
+- Two builders cutting through the AI hype cycle to talk about what actually matters: how AI is changing work, business, and life — and what it means for the humans at the center of it all.
+- Segments include **Signal or Noise**, **Ship It or Skip It**, **No Jargon Required**, and **Stack Check**, with a guest deep-dive every 5th episode.
 
 ### **ByPosting** – Co-Founder
 
