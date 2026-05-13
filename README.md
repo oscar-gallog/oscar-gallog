@@ -1,6 +1,6 @@
 # Hello 👋🏻 I'm **Oscar Gallo**
 
-**Full Stack Engineer | AI Entrepreneur | Podcast Host | Mentor**
+**Fractional Chief AI Officer | AI Entrepreneur | Podcast Host | Mentor**
 
 <p>
   <a href="https://www.linkedin.com/in/oscargallo/" target="_blank" rel="noopener noreferrer">
@@ -62,23 +62,40 @@
 
 ## Services
 
-### **Fractional CTO Call**
+### **Fractional Chief AI Officer** — _AI Leadership_
 
-<a href="https://cal.com/oscar-gallo/fractional-cto-call" target="_blank">Book a Fractional CTO Call</a>
+<a href="https://cal.com/oscar-gallo/fractional-caio-call" target="_blank">Book a Fractional CAIO Call</a>
 
-- Strategic technology leadership for startups and growing teams — architecture reviews, tech stack decisions, and engineering roadmaps.
+Embedded AI leadership for teams that need AI processes, agents, and enablement shipped — not slide decks.
 
-### **AI Systems Architect**
+**AI Processes**
+- Process audit + prioritized AI opportunity map
+- Workflow redesign with humans-in-the-loop where it matters
+- Eval harness + guardrails so wins survive production
 
-<a href="https://cal.com/oscar-gallo/ai-systems-architect" target="_blank">Book an AI Systems Architect Session</a>
+**AI Agents**
+- Agent architecture + tool/skill design
+- Model selection, cost controls, and evaluation
+- Hand-off from POC to production with observability
 
-- Design and plan AI-powered systems for your product — from LLM integrations and agent workflows to infrastructure and deployment strategy.
+**AI Enablement**
+- Hands-on coaching for engineers and PMs
+- Internal playbooks, prompt libraries, and review rituals
+- Hiring + interview loops for AI-native roles
 
-### **Discovery 30 Min Meeting**
+> Most teams compare this to a $300k+ full-time AI exec hire and still call it a bargain.
 
-<a href="https://cal.com/oscar-gallo/30min" target="_blank">Book a 30 Min Discovery Call</a>
+### **Discovery Call** — _Free Intro_
 
-- Quick introductory call to discuss your project, explore how I can help, and determine the best path forward.
+<a href="https://cal.com/oscar-gallo/30min" target="_blank">Book a Discovery Call</a>
+
+A free 30-minute conversation to pressure-test where AI fits in your roadmap and whether we're the right match.
+
+- Where AI realistically helps your business this quarter
+- Quick read on team readiness and biggest risks
+- Clear next step — engagement, referral, or DIY plan
+
+> No deck. No pitch. Just a working conversation.
 
 ---
 
@@ -198,26 +215,6 @@ I bridge the gap between design, engineering, and business goals, turning comple
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-## Entrepreneurship & Side Projects
-
-### **DG42** – Co-Founder / CTO
-
-[bydg42.com](https://bydg42.com)
-_2023 – Present_
-
-- Building AI-first products in the fields of marketing, design, and product photography.
-- Leading fast-paced MVP development, launching products in **9-day challenges**.
-- Focused on making AI accessible for non-technical users through modular assistants and creative tools.
-
-### **Mentoring**
-
-_2019 – Present_
-
-- Mentor students, new graduates, and career changers in web and mobile development.
-- Special focus on helping people with strong passion and resilience break into the software industry.
-
----
 
 ## Skills
 
