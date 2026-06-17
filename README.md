@@ -39,7 +39,7 @@
 - AI-native interior design & renovation platform.
 - Aimed at helping real estate developers, entrepreneurs and real estate agents navigate the fast-changing tech ecosystem.
 
-### **Oscar Codes Life** – Creator
+### **OCL42** – Creator
 
 <a href="https://ocl42.com" target="_blank">ocl42.com</a>
 
