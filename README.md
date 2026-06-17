@@ -41,7 +41,7 @@
 
 ### **Oscar Codes Life** – Creator
 
-<a href="https://oscarcodeslife.com" target="_blank">oscarcodeslife.com</a>
+<a href="https://ocl42.com" target="_blank">ocl42.com</a>
 
 - Personal knowledge hub where I share insights about **AI, web development, mobile development, books, and more**.
 - Aimed at helping developers and entrepreneurs navigate the fast-changing tech ecosystem.
