@@ -20,7 +20,7 @@
 
 ### **Human In the Loop** – Co-Host
 
-<a href="https://www.youtube.com/@Human_in_the_loop_podcast" target="_blank">YouTube</a> · <a href="https://open.spotify.com/show/1NYCImjS1FzreHbLfIH4k5" target="_blank">Spotify</a> · <a href="https://podcasts.apple.com/mx/podcast/human-in-the-loop/id6798595249" target="_blank">Apple Podcasts</a>
+<a href="https://podcast.vallyseed.com" target="_blank">Podcast website</a> · <a href="https://www.youtube.com/@Human_in_the_loop_podcast" target="_blank">YouTube</a> · <a href="https://open.spotify.com/show/1NYCImjS1FzreHbLfIH4k5" target="_blank">Spotify</a> · <a href="https://podcasts.apple.com/mx/podcast/human-in-the-loop/id6798595249" target="_blank">Apple Podcasts</a>
 
 - Weekly human-first AI podcast co-hosted with Matt Wozniak. Real talk, unpopular opinions, no hype.
 - Two builders cutting through the AI hype cycle to talk about what actually matters: how AI is changing work, business, and life — and what it means for the humans at the center of it all.
