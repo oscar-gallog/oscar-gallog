@@ -20,31 +20,31 @@
 
 ### **Human In the Loop** – Co-Host
 
-<a href="https://www.youtube.com/@Human_in_the_loop_podcast" target="_blank">YouTube</a> · <a href="https://open.spotify.com/show/1NYCImjS1FzreHbLfIH4k5" target="_blank">Spotify</a>
+<a href="https://www.youtube.com/@Human_in_the_loop_podcast" target="_blank">YouTube</a> · <a href="https://open.spotify.com/show/1NYCImjS1FzreHbLfIH4k5" target="_blank">Spotify</a> · <a href="https://podcasts.apple.com/mx/podcast/human-in-the-loop/id6798595249" target="_blank">Apple Podcasts</a>
 
 - Weekly human-first AI podcast co-hosted with Matt Wozniak. Real talk, unpopular opinions, no hype.
 - Two builders cutting through the AI hype cycle to talk about what actually matters: how AI is changing work, business, and life — and what it means for the humans at the center of it all.
 - Segments include **Signal or Noise**, **Ship It or Skip It**, **No Jargon Required**, and **Stack Check**, with a guest deep-dive every 5th episode.
 
-### **ByPosting** – Co-Founder
+### **VallySeed.com** – Co-Founder & CTO
 
-<a href="https://byposting.com" target="_blank">byposting.com</a>
+_2025 – Present_
 
-- AI-native community manager that automatically creates, designs, and publishes social media content across multiple platforms.
+<a href="https://vallyseed.com" target="_blank">VallySeed.com</a>
 
-### **ByRenovate** – Co-Founder
+### **DG42.io** – Co-Founder & CTO
 
-<a href="https://byrenovate.com" target="_blank">byrenovate.com</a>
+_2020 – 2025_
 
-- AI-native interior design & renovation platform.
-- Aimed at helping real estate developers, entrepreneurs and real estate agents navigate the fast-changing tech ecosystem.
+<a href="https://dg42.io" target="_blank">DG42.io</a>
 
-### **OCL42** – Creator
+- Products include <a href="https://feedbackcraft.com" target="_blank">FeedbackCraft.com</a>.
 
-<a href="https://ocl42.com" target="_blank">ocl42.com</a>
+### **OscarCodesLife.com** – Creator
 
-- Personal knowledge hub where I share insights about **AI, web development, mobile development, books, and more**.
-- Aimed at helping developers and entrepreneurs navigate the fast-changing tech ecosystem.
+<a href="https://oscarcodeslife.com" target="_blank">OscarCodesLife.com</a>
+
+- My personal brand and a community of technical people invested in AI, called **CodeLifers**.
 
 ### **Iteris** – Creator
 
@@ -62,40 +62,7 @@
 
 ## Services
 
-### **Fractional Chief AI Officer** — _AI Leadership_
-
-<a href="https://cal.com/oscar-gallo/fractional-caio-call" target="_blank">Book a Fractional CAIO Call</a>
-
-Embedded AI leadership for teams that need AI processes, agents, and enablement shipped — not slide decks.
-
-**AI Processes**
-- Process audit + prioritized AI opportunity map
-- Workflow redesign with humans-in-the-loop where it matters
-- Eval harness + guardrails so wins survive production
-
-**AI Agents**
-- Agent architecture + tool/skill design
-- Model selection, cost controls, and evaluation
-- Hand-off from POC to production with observability
-
-**AI Enablement**
-- Hands-on coaching for engineers and PMs
-- Internal playbooks, prompt libraries, and review rituals
-- Hiring + interview loops for AI-native roles
-
-> Most teams compare this to a $300k+ full-time AI exec hire and still call it a bargain.
-
-### **Discovery Call** — _Free Intro_
-
-<a href="https://cal.com/oscar-gallo/30min" target="_blank">Book a Discovery Call</a>
-
-A free 30-minute conversation to pressure-test where AI fits in your roadmap and whether we're the right match.
-
-- Where AI realistically helps your business this quarter
-- Quick read on team readiness and biggest risks
-- Clear next step — engagement, referral, or DIY plan
-
-> No deck. No pitch. Just a working conversation.
+<a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1pLAmP-LudCSUphNqp0ZyQm6gqTfqP8roFA7joDVOeraA-YpsBd5OG3RgsOW534vb0Rj6qD887" target="_blank">Book a Discovery Call</a>
 
 ---
 
