@@ -32,6 +32,9 @@ _2025 – Present_
 
 <a href="https://vallyseed.com" target="_blank">VallySeed.com</a>
 
+- We turn AI plans into working systems for established organizations: finding the right use cases, building agents and custom products, and deploying them into real workflows.
+- Our products include **CortexSeed**, a company knowledge layer that gives AI agents the context to use what teams have already learned.
+
 ### **DG42.io** – Co-Founder & CTO
 
 _2020 – 2025_
