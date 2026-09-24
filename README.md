@@ -41,7 +41,7 @@ _2020 – 2025_
 
 <a href="https://dg42.io" target="_blank">DG42.io</a>
 
-- Products include <a href="https://feedbackcraft.com" target="_blank">FeedbackCraft.com</a>.
+- Products include <a href="https://feedbackcraft.com" target="_blank">FeedbackCraft.com</a>, <a href="https://bykper.com" target="_blank">Bykper.com</a>, and <a href="https://byrenovate.com" target="_blank">ByRenovate.com</a>.
 
 ### **OscarCodesLife.com** – Creator
 
